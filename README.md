@@ -7,6 +7,8 @@ Start Button: to start video feed display
 
 Stop Button: to stop video feed display
 
-Record your screen & attach your working code to same email
+Record your screen, share video & attach your working code to same email
+
+You can use any screen recorder: https://chromewebstore.google.com/detail/awesome-screen-recorder-s/nlipoenfbbikpbjkfpfillcgkoblgpmj
 
 Timelimit: 24hours
