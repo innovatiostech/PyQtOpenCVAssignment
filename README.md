@@ -1,0 +1,2 @@
+# PyQtOpenCVAssignment
+Assignment#1
